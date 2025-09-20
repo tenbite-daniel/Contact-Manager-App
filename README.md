@@ -11,6 +11,8 @@ A RESTful API backend for managing contacts, built with Node.js, Express, MongoD
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![bcrypt](https://img.shields.io/badge/bcrypt-2E8B57?style=for-the-badge&logo=security&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Thunder Client](https://img.shields.io/badge/Thunder%20Client-5A67D8?style=for-the-badge&logo=thunderbird&logoColor=white)
 
 </div>
 
@@ -32,6 +34,8 @@ A RESTful API backend for managing contacts, built with Node.js, Express, MongoD
 -   **JWT** - Authentication tokens
 -   **bcrypt** - Password hashing
 -   **pnpm** - Package manager
+-   **Postman** - API testing
+-   **Thunder Client** - VS Code API testing
 
 ## API Endpoints
 
@@ -56,6 +60,12 @@ A RESTful API backend for managing contacts, built with Node.js, Express, MongoD
 3. Install dependencies: `pnpm install` (recommended) or `npm install`
 4. Set up environment variables in `.env`
 5. Start the server: `pnpm run dev` (development) or `pnpm start` (production)
+
+## Testing the API
+
+Tested with:
+-   **Postman** - GUI-based API testing tool
+-   **Thunder Client** - VS Code extension for API testing
 
 ## Environment Variables
 
